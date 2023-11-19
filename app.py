@@ -1,1 +1,1 @@
-cat app.py
+print("Hello World")
